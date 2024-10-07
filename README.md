@@ -4,3 +4,6 @@
 Install package using pip:
 
 pip install graphs_jjarek
+
+project can be found via
+https://pypi.org/project/graphs-jjarek/
