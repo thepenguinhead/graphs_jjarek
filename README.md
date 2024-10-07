@@ -3,4 +3,4 @@
 
 Install package using pip:
 
-pip install git+https://github.com/thepenguinhead/graphs_jjarek.git
+pip install graphs_jjarek
